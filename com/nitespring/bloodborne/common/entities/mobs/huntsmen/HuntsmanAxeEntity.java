@@ -39,7 +39,7 @@ import software.bernie.geckolib3.core.event.predicate.AnimationEvent;
 import software.bernie.geckolib3.core.manager.AnimationData;
 import software.bernie.geckolib3.core.manager.AnimationFactory;
 
-public class HuntsmanAxeEntity extends AbstractHuntsmanEntity implements IAnimatable, IAnimationTickable{
+public class HuntsmanAxeEntity extends AbstractHuntsmanEntity implements IAnimatable{
 
 	
 	protected AnimationFactory factory = new AnimationFactory(this);
@@ -47,12 +47,6 @@ public class HuntsmanAxeEntity extends AbstractHuntsmanEntity implements IAnimat
 	public HuntsmanAxeEntity(EntityType<? extends PathfinderMob> p_i48575_1_, Level p_i48575_2_) {
 		super(p_i48575_1_, p_i48575_2_);
 	
-	}
-
-	@Override
-	public int tickTimer() {
-		
-		return this.tickCount;
 	}
 	
 	
