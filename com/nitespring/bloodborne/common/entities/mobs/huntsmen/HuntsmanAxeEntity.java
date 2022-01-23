@@ -43,9 +43,7 @@ public class HuntsmanAxeEntity extends AbstractHuntsmanEntity implements IAnimat
 
 	
 	protected AnimationFactory factory = new AnimationFactory(this);
-	//ZombieEntity
-	//SkeletonEntity
-	//WitherSkeletonEntity
+	
 	public HuntsmanAxeEntity(EntityType<? extends PathfinderMob> p_i48575_1_, Level p_i48575_2_) {
 		super(p_i48575_1_, p_i48575_2_);
 	
