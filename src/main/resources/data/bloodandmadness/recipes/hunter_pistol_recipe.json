@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+	  "fII",
+        "Si "
+    ],
+    "key": {
+        "f": {
+            "item": "minecraft:flint_and_steel"
+        },
+	  "i": {
+            "item": "minecraft:iron_ingot"
+        },
+	  "I": {
+            "item": "bloodandmadness:sanguisteel_ingot"
+        },
+        "S": {
+            "item": "bloodandmadness:reinforced_handle"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:weapons/hunter_pistol",
+        "count": 1
+    }
+}

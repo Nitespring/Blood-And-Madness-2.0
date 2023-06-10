@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+ 	  "IW ",
+	  "GBG",
+        " G "
+    ],
+    "key": {
+        "B": {
+             "item": "bloodandmadness:beastblood_clump"
+        },
+        "I": {
+             "item": "minecraft:iron_nugget"
+        },
+	  "G": {
+             "item": "minecraft:glass_bottle"
+        },
+        "W": {
+             "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:blood_vial",
+        "count": 1
+    }
+}

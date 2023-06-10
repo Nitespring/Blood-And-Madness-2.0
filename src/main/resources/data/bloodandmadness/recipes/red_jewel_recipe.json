@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+ 	  "GSG",
+	  "RBR",
+        "AEA"
+    ],
+    "key": {
+        "S": {
+             "item": "bloodandmadness:sanguisteel_ingot"
+        },
+	  "R": {
+            "item": "minecraft:redstone"
+        },
+"A": {
+            "item": "minecraft:amethyst_shard"
+        },
+	  "B": {
+            "item": "bloodandmadness:beastblood_clump"
+        },
+        "G": {
+             "item": "minecraft:gold_ingot"
+        },
+        "E": {
+             "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:red_jewel",
+        "count": 1
+    }
+}

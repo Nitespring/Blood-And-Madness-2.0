@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " Q ",
+	  "GgG",
+        " i "
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "g": {
+            "item": "minecraft:gunpowder"
+        },
+	  "i": {
+            "item": "bloodandmadness:sanguisteel_nugget"
+        },
+        "Q": {
+            "item": "bloodandmadness:pure_quicksilver"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:bullets/quicksilver_bullet",
+        "count": 16
+    }
+}

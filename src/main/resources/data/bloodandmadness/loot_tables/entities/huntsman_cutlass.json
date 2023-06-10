@@ -1,0 +1,77 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+   {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:sanguisteel_nugget"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -2,
+                "max": 1
+              }
+            }
+          ]
+    },
+    {
+     "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:weapons/cutlass"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -10,
+                "max": 1
+              }
+            }
+          ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:blood_stone_shard"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -7,
+                "max": 1
+              }
+            }
+          ]
+    },
+{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:blood_vial"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -5,
+                "max": 3
+              }
+            }
+          ]
+    }
+  ]
+}

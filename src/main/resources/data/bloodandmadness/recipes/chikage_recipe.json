@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+	  "BBI",
+	  "BIB",
+        "SBB"
+    ],
+    "key": {
+	  "I": {
+            "item": "bloodandmadness:sanguisteel_ingot"
+        },
+	  "B": {
+            "item": "bloodandmadness:beastblood_clump"
+        },
+        "S": {
+            "item": "bloodandmadness:reinforced_handle"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:weapons/chikage",
+        "count": 1
+    }
+}

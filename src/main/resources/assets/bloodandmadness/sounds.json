@@ -1,0 +1,39 @@
+{
+       "general.music_box": {
+		"sounds": [ "bloodandmadness:music_box" ],
+		"subtitle": "subtitles.bloodandmadness.music_box"
+	},
+        "entity.beast_patient_scream": {
+		"sounds": [ "bloodandmadness:entity/beasts/beast_scream" ],
+		"subtitle": "subtitles.bloodandmadness.beast_scream"
+	},
+       "item.gun_shot": {
+		"sounds": [ "bloodandmadness:gun_shot" ],
+		"subtitle": "subtitles.bloodandmadness.gun_shot"
+	},
+
+       "entity.beast_patient_grunt": {
+		"sounds": [ "bloodandmadness:entity/beasts/beast_patient_grunt" ],
+		"subtitle": "subtitles.bloodandmadness.beast_patient_grunt"
+	},
+        "entity.beast_growl": {
+		"sounds": [ "bloodandmadness:entity/beasts/beast_growl" ],
+		"subtitle": "subtitles.bloodandmadness.beast_growl"
+	},
+        "entity.beast_death": {
+		"sounds": [ "bloodandmadness:entity/beasts/beast_death" ],
+		"subtitle": "subtitles.bloodandmadness.beast_death"
+	},
+ 	"item.cannon_shot": {
+		"sounds": [ "bloodandmadness:weapons/cannon_shot" ],
+		"subtitle": "subtitles.bloodandmadness.cannon_shot"
+	},
+        "item.trick": {
+		"sounds": [ "bloodandmadness:weapons/trick" ],
+		"subtitle": "subtitles.bloodandmadness.trick"
+	},
+ 	"item.molotov_cocktail": {
+		"sounds": [ "bloodandmadness:weapons/molotov_cocktail" ],
+		"subtitle": "subtitles.bloodandmadness.molotov_cocktail"
+	}
+}

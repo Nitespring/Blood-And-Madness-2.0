@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bloodandmadness:block/world/quicksilver_soaked_nightmare_stone"
+  }
+}

@@ -1,0 +1,26 @@
+{
+"variants":{
+
+
+    "facing=east": {
+      "model": "bloodandmadness:block/workshop",
+      "y": 90
+    },
+  
+    "facing=north": {
+      "model": "bloodandmadness:block/workshop"
+    },
+   
+    "facing=south": {
+      "model": "bloodandmadness:block/workshop",
+      "y": 180
+    },
+   
+    "facing=west": {
+      "model": "bloodandmadness:block/workshop",
+      "y": 270
+    }
+   
+ } 
+
+}

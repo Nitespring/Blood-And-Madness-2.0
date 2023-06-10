@@ -1,0 +1,97 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+   {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:sanguisteel_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:beastblood_clump"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 16
+              }
+            }
+          ]
+    },
+    {
+     "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:weapons/hunter_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:weapons/hunter_pistol"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ]
+    },
+{
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:blood_stone_shard"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:twin_blood_stone_shards"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -2,
+                "max": 4
+              }
+            }
+          ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:blood_stone_chunk"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+   {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:beastblood_clump"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -3,
+                "max": 1
+              }
+            }
+          ]
+    },
+{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:blood_vial"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -3,
+                "max": 2
+              }
+            }
+          ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:blood_stone_shard"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -4,
+                "max": 1
+              }
+            }
+          ]
+    }
+  ]
+}

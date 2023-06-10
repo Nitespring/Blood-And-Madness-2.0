@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bloodandmadness:block/world/rough_nightmare_stone"
+  }
+}

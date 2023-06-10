@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "bloodandmadness:weapons/cutlass"
+    },
+    {
+      "item": "bloodandmadness:weapons/pitchfork"
+    },
+    {
+      "item": "bloodandmadness:weapons/hunting_axe"
+    }
+  ],
+  "result": "bloodandmadness:sanguisteel_nugget"
+}

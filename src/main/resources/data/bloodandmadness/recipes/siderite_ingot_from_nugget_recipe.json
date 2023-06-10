@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+ 	  "iii",
+	  "iii",
+        "iii"
+    ],
+    "key": {
+	  "i": {
+            "item": "bloodandmadness:siderite_nugget"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:siderite_ingot",
+        "count": 1
+    }
+}

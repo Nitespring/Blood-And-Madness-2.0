@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " G ",
+	  "GgG",
+        " G "
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:iron_ingot"
+        },
+        "g": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:bullets/iron_bullet",
+        "count": 16
+    }
+}

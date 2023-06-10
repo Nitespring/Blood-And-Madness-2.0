@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+	  "gG"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "g": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:bullets/netherite_bullet",
+        "count": 16
+    }
+}

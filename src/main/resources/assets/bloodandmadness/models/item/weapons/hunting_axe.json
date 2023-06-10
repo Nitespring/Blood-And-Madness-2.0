@@ -1,0 +1,6 @@
+{
+"parent": "minecraft:item/handheld",
+"textures": {
+    "layer0": "bloodandmadness:item/weapons/huntsman_axe"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+ 	  "SAS",
+	  "CTU",
+        "SWS"
+    ],
+    "key": {
+        "S": {
+             "item": "bloodandmadness:sanguisteel_ingot"
+        },
+	  "A": {
+            "item": "minecraft:anvil"
+        },
+	  "T": {
+            "item": "minecraft:crafting_table"
+        },
+        "C": {
+             "item": "minecraft:stonecutter"
+        },
+	  "U": {
+             "item": "minecraft:smithing_table"
+        },
+        "W": {
+             "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:blocks/workshop_item",
+        "count": 1
+    }
+}

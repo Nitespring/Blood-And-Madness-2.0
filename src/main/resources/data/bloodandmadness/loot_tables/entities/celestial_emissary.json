@@ -1,0 +1,60 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+   {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:siderite_nugget"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -4,
+                "max": 1
+              }
+            }
+          ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:pure_quicksilver"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -3,
+                "max": 1
+              }
+            }
+          ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bloodandmadness:blood_stone_shard"
+        }
+      ],
+      "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -3,
+                "max": 2
+              }
+            }
+          ]
+    }
+
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+	  " I",
+	  "IS",
+        "IS"
+    ],
+    "key": {
+	  "I": {
+            "item": "bloodandmadness:sanguisteel_ingot"
+        },
+        "S": {
+            "item": "bloodandmadness:reinforced_handle"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:weapons/saw_cleaver",
+        "count": 1
+    }
+}

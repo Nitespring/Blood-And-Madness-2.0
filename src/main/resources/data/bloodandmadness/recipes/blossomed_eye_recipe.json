@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+ 	  "QSQ",
+	  "SES",
+        "QSQ"
+    ],
+    "key": {
+        "S": {
+             "item": "bloodandmadness:siderite_nugget"
+        },
+	  "Q": {
+            "item": "bloodandmadness:pure_quicksilver"
+        },
+        "E": {
+             "item": "minecraft:ender_eye"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:blossomed_eye",
+        "count": 1
+    }
+}

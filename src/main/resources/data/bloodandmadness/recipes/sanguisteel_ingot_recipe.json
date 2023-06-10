@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+ 	  "Gii",
+	  "GBG",
+        "iiG"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+	  "i": {
+            "item": "minecraft:iron_ingot"
+        },
+	  "B": {
+            "item": "bloodandmadness:beastblood_clump"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:sanguisteel_ingot",
+        "count": 1
+    }
+}

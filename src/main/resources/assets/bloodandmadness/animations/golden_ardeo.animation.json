@@ -1,0 +1,21 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.golden_ardeo.new": {
+			"loop": true,
+			"bones": {
+				"armorHead": {
+					"rotation": {
+						"vector": [-2.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, 1, 0]
+					},
+					"scale": {
+						"vector": [0.9, 0.9, 1]
+					}
+				}
+			}
+		}
+	}
+}

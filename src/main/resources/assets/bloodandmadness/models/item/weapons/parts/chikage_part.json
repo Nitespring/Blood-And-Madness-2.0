@@ -1,0 +1,16 @@
+{
+	"loader": "forge:obj",
+  	"model": "bloodandmadness:models/item/obj/chikage_part.obj",
+  	"ambientToFullbright":false,
+  	"flip-v": true,
+	"display":
+  	{
+    	   "thirdperson_righthand":
+    		{
+    		    "translation": [-5, 8, -7],
+    		    "rotation": [160, 15, 0],
+      			"scale": [0.25, 0.25, 0.25]
+      			
+    		}
+}
+}

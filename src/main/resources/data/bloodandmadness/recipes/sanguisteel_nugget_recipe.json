@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "bloodandmadness:sanguisteel_ingot"
+        }
+    ],
+    "result": {
+        "item": "bloodandmadness:sanguisteel_nugget",
+        "count": 9
+    }
+}

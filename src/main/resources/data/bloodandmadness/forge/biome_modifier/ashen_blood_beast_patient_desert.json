@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:is_desert",
+  "spawners": {
+    "type": "bloodandmadness:ashen_blood_beast_patient",
+    "weight":10,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

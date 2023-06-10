@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+ 	  "WSW",
+	  "GJG",
+        "WRW"
+    ],
+    "key": {
+        "S": {
+             "item": "bloodandmadness:sanguisteel_ingot"
+        },
+	  "R": {
+            "item": "minecraft:redstone"
+        },
+	  "J": {
+            "item": "minecraft:jukebox"
+        },
+        "G": {
+             "item": "minecraft:gold_ingot"
+        },
+        "W": {
+             "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:music_box",
+        "count": 1
+    }
+}

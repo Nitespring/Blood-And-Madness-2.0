@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+ 	  " Is",
+	  "fsi",
+        "si "
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:stick"
+        },
+	  "i": {
+            "item": "minecraft:iron_ingot"
+        },
+	  "I": {
+            "item": "bloodandmadness:sanguisteel_ingot"
+        },
+        "f": {
+            "item": "bloodandmadness:sanguisteel_nugget"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:reinforced_handle",
+        "count": 1
+    }
+}

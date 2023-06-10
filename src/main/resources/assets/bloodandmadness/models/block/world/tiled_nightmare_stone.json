@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "bloodandmadness:block/world/nightmare_stone",
+    "north": "bloodandmadness:block/world/tiled_nightmare_stone",
+    "south": "bloodandmadness:block/world/tiled_nightmare_stone",
+    "east": "bloodandmadness:block/world/tiled_nightmare_stone",
+    "west": "bloodandmadness:block/world/tiled_nightmare_stone",
+    "up": "bloodandmadness:block/world/tiled_nightmare_stone_top",
+    "down": "bloodandmadness:block/world/tiled_nightmare_stone"
+  }
+}

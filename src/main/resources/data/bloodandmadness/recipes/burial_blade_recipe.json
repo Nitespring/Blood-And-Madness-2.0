@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+	  "MMM",
+	  " S ",
+        "S  "
+    ],
+    "key": {
+	  "M": {
+            "item": "bloodandmadness:siderite_ingot"
+        },
+        "S": {
+            "item": "bloodandmadness:reinforced_handle"
+        }
+    },
+    "result": {
+        "item": "bloodandmadness:weapons/burial_blade",
+        "count": 1
+    }
+}
