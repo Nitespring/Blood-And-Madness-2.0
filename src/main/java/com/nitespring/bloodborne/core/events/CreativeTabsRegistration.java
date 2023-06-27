@@ -32,7 +32,7 @@ public class CreativeTabsRegistration {
 	@SubscribeEvent
 	  public static void addItemsToTabs(BuildCreativeModeTabContentsEvent output)
 	    {
-	        if (output.getTabKey() == WEAPON_TAB)
+	        if (output.getTabKey() == CreativeModeTabs.COMBAT)
 	        {
 	        	output.accept(WeaponInit.SAW_CLEAVER.get());
                 output.accept(WeaponInit.CHIKAGE.get());
@@ -63,7 +63,7 @@ public class CreativeTabsRegistration {
                 output.accept(WeaponInit.A_CALL_BEYOND.get());
                 output.accept(WeaponInit.AUGUR_OF_EBRIETAS.get());
 	        }
-	        if (output.getTabKey() == MATERIAL_TAB)
+	        if (output.getTabKey() == CreativeModeTabs.INGREDIENTS)
 	        {
 
 	        	output.accept(ItemInit.BLOOD_STONE_SHARD.get());
@@ -84,7 +84,7 @@ public class CreativeTabsRegistration {
                 output.accept(BlockInit.ROUGH_NIGHTMARE_STONE_ITEM.get());
                 output.accept(BlockInit.TILED_NIGHTMARE_STONE_ITEM.get());
 	        }
-	        if (output.getTabKey() == ENTITY_TAB)
+	        if (output.getTabKey() == CreativeModeTabs.SPAWN_EGGS)
 	        {
 	        	output.accept(ItemInit.RED_JEWEL.get());
                 output.accept(ItemInit.BLOSSOMED_EYE.get());
