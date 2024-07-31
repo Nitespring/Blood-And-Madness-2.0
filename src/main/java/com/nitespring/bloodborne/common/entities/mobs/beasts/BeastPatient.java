@@ -470,6 +470,7 @@ public class BeastPatient extends AbstractBloodborneEntity implements GeoEntity{
 		}
 		
 		
+		@SuppressWarnings("unused")
 		protected void doMovement(LivingEntity livingentity, Double d0) {
 			this.mob.getLookControl().setLookAt(this.mob.getTarget(), 30.0F, 30.0F);
 			this.ticksUntilNextPathRecalculation = Math.max(this.ticksUntilNextPathRecalculation - 1, 0);

@@ -1,16 +1,14 @@
 package com.nitespring.bloodborne.common.entities.projectiles;
-import com.nitespring.bloodborne.common.customdamage.CustomDamageSource;
+
 import com.nitespring.bloodborne.common.items.bullets.BulletItem;
 import com.nitespring.bloodborne.core.init.ProjectileInit;
 
-import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.decoration.ArmorStand;
 import net.minecraft.world.entity.projectile.AbstractHurtingProjectile;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.Level.ExplosionInteraction;
-import net.minecraft.world.level.Explosion.BlockInteraction;
 import net.minecraft.world.phys.BlockHitResult;
 import net.minecraft.world.phys.EntityHitResult;
 
